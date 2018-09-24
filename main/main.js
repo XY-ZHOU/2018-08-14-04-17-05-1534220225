@@ -1,4 +1,6 @@
 module.exports = function main() {
-    console.log("Debug Info");
-    return 'Hello World!';
+   var a;
+    var b;
+    var yushu=a%b;
+    return yushu;
 };
